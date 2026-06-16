@@ -1,0 +1,21 @@
+*.cabecalio{
+    padding: 15px 25px;
+    background-color: #8c83ff;
+    color: #ffff;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 108vh;
+    background-color: #c7a4ff;
+}
+
+.cabecalio-link{
+    color:rgb(0, 0, 187);
+}
+
+footer{
+    background-color: #8c83ff;
+    color: #ffff;
+}
