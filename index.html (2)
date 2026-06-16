@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css"/>
+    <title>Document</title>
+</head>
+<body>
+    <header class="cabecalio">
+   <h1 >Confere aí</h1>  
+   <nav>
+    <a href="#" >Início</a>
+   </nav>
+    </header>
+    <main>
+        <article class="cartao">
+            <div class="cartao-interno">
+                <div class="cartao-frente">
+                      <h1>Fake news:</h1> 
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHz_ekfMP0U63Qx4857J4YPgnfzlZecre2g&s" alt="Pingin">
+                    <p>Pingins comem somente frutas com uma dieta balanceada.</p>
+                </div>
+                <div class="cartao-verso">
+                     <h1>Fato verdadeiro:</h1> 
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhdIU_fEuSGbNR6v4YLtMMLqbkpu8XEmRSQ&s" alt="Pingin" class="cartao-imagem">
+                    <p>Pingins são somente carnivoros, se alimentam de frutos do mar, principalmente de peixes.</p>
+                </div>
+            </div>
+                        <div>
+                    <h1>Que alimentos os pinguins comem?
+                    </h1>
+                    <p>Como mencionado anteriormente, todas as 18 espécies de pinguins são carnívoras. A maioria dos pinguins se alimenta principalmente de peixes, complementando sua dieta com outros frutos do mar, dependendo da localização da espécie. Pesquisadores descobriram que pinguins em latitudes mais baixas, como o pinguim-azul e o pinguim-de-cabeça-vermelha (Spheniscus), consomem mais peixes do que espécies em latitudes mais altas. Pinguins que habitam latitudes mais altas, como o pinguim-macaroni, o pinguim-de-barbicha e o pinguim-de-adélia, dependem fortemente tanto de krill quanto de peixes, além de pequenas quantidades de outros frutos do mar.</p>
+
+<p>Os cientistas também descobriram que as diferenças na dieta estavam previsivelmente ligadas às diferenças na disponibilidade de presas entre as áreas de caça. Pinguins-africanos e pinguins-azuis também demonstraram alterar as quantidades de presas que consomem sazonalmente, embora nem sempre devido a mudanças na disponibilidade. Em espécies como o pinguim-de-humboldt, eventos oceanográficos periódicos como o El Niño exigem que eles mudem os tipos de peixes que consomem.</p>
+
+<h1>Embora haja algumas variações dependendo da espécie e do habitat, os pinguins se alimentam principalmente de:</h1>
+
+<p>Peixes, incluindo anchovas, sardinhas, espadilhas, arenques, sardinhas-pilchard, tainhas, peixes-gelo e peixes-lanterna.</p>
+<p>Cefalópodes, como lulas e chocos.</p>
+<p>Crustáceos, incluindo krill, caranguejo e camarão.</p>
+<p>Medusa</p>
+                </div>
+                </div>
+             </article> 
+         </main> 
+         <footer> 
+            <h1>Esse projeto foi feito pela Aluna Stephannie</h1> 
+    </footer>
+    <meta charset="UTF-8">
+    <meta name="viewport">
+</body>
+</html>
