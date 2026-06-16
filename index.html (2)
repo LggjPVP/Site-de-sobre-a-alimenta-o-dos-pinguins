@@ -10,7 +10,8 @@
     <header class="cabecalio">
    <h1 >Confere aí</h1>  
    <nav>
-    <a href="#" >Início</a>
+    <a href="https://pt.wikipedia.org/wiki/Pinguim-imperador">Wikipedia</a>
+</a>
    </nav>
     </header>
     <main>
@@ -18,12 +19,12 @@
             <div class="cartao-interno">
                 <div class="cartao-frente">
                       <h1>Fake news:</h1> 
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHz_ekfMP0U63Qx4857J4YPgnfzlZecre2g&s" alt="Pingin">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHz_ekfMP0U63Qx4857J4YPgnfzlZecre2g&s" width="300" alt="Pingin">
                     <p>Pingins comem somente frutas com uma dieta balanceada.</p>
                 </div>
                 <div class="cartao-verso">
                      <h1>Fato verdadeiro:</h1> 
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhdIU_fEuSGbNR6v4YLtMMLqbkpu8XEmRSQ&s" alt="Pingin" class="cartao-imagem">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhdIU_fEuSGbNR6v4YLtMMLqbkpu8XEmRSQ&s" width="300" alt="Pingin" class="cartao-imagem">
                     <p>Pingins são somente carnivoros, se alimentam de frutos do mar, principalmente de peixes.</p>
                 </div>
             </div>
